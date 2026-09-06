@@ -1,3 +1,4 @@
 先提交 10 次 → 故意 reset/revert 5 次 → 开 5 个分支乱合并 → 制造 3 次冲突并解决 → rebase 整理 2 次 → 用 bare 仓库模拟 1 轮 push/pull → 最后上一个真 GitHub 走一遍 PR。
 测试1
 测试2
+测试3
